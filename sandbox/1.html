@@ -8,6 +8,14 @@
 			font-size: 20px;
 			font-weight: bolder;
 		}
+		.fixedP{
+			font-size: 13px;
+			font-weight: lighter;
+		}
+
+		.fix-width{
+			width: 500px;
+		}
 	</style>
 
 	<head>
@@ -15,18 +23,35 @@
 	</head>
 
 	<body>
-		The content of the document...
-		<p>These are letters inside a P tag</p>
+		<p>This is a sandbox for bootstrap</p>
 
-		<!-- Buttn element -->
+	<div class="fix-width">
+		below makes use of bootstraps btn classes
+
+		<!-- Button bootstrap primary-->
 		<button class="btn btn-block btn-primary">
-			Button
-		</button>
+				btn-primary
+			</button>
 
-		<!--bootstrap buttons -->
-		<div class="btn btn-">
-			Submit
-		</div>
+		<!-- Button bootstrap info -->
+		<button class="btn btn-block btn-info">
+				btn-info
+			</button>
+
+		<button class="btn btn-block btn-danger">
+				btn-danger
+			</button>
+	</div>
+
+	<!-- bootstrap grid -->
+	<p class="fixedP">This is another P with class</p>
+	below make use of bootstraps grid class
+	<div>
+		<div><button class="btn btn-block btn-primary">Like</button></div>
+		<div><button class="btn btn-block btn-info">Info</button></div>
+		<div><button class="btn btn-block btn-danger">Delete</button></div>
+	</div>
+
 	</body>
 
 	</html>
