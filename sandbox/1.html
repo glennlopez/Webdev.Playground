@@ -9,9 +9,28 @@
 			font-weight: bolder;
 		}
 
+		.title{
+			margin-top: 50px;
+		}
+
 		.fixedP {
 			font-size: 13px;
 			font-weight: lighter;
+		}
+
+		.fixedP1 {
+			font-size: 13px;
+			font-weight: normal;
+		}
+
+		.fixedP2 {
+			font-size: 13px;
+			font-weight: bold;
+		}
+
+		.fixedP3 {
+			font-size: 13px;
+			font-weight: bolder;
 		}
 
 		.fix-width {
@@ -24,7 +43,7 @@
 	</head>
 
 	<body>
-		<p>This is a sandbox for bootstrap</p>
+		<p class="title">below makes use of bootstrap</p>
 
 		<div class="fix-width">
 			below makes use of bootstraps btn classes
@@ -46,13 +65,31 @@
 		</br>
 
 		<!-- bootstrap grid -->
-		<p class="fixedP">This is another P with class</p>
-		below make use of bootstraps grid class
+		 <p class="title">below makes use of bootstraps grid class</p>
+
 		<div class="row">
 			<div class="col-xs-4"><button class="btn btn-block btn-primary">Like</button></div>
 			<div class="col-xs-4"><button class="btn btn-block btn-info">Info</button></div>
 			<div class="col-xs-4"><button class="btn btn-block btn-danger">Delete</button></div>
 		</div>
+
+		<!-- span elements -->
+		<p class="title">below makes use of span elements</p>
+		<span class="fixedP">
+			font-wieght: lighter
+		</span>
+		|
+		<span class="fixedP1">
+			font-wieght: normal
+		</span>
+		|
+		<span class="fixedP2">
+			font-wieght: bold
+		</span>
+		|
+		<span class="fixedP3">
+			font-wieght: bolder
+		</span>
 
 	</body>
 
