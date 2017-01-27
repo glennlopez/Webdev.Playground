@@ -13,3 +13,6 @@ This is primarily where I keep all my backend stuff for learning new concepts. Y
 | <a href="http://codepen.io/glennlopez/">CodePen</a>     | My frontend web snippets for you to review, use, and play with.  |
 | <a href="http://glennlopez.deviantart.com/">DeviantArt</a>     | My logo designs, GUI/UI, web layout mock-ups, traditional drawings, and other art are stored here. |
 | <a href="https://www.freecodecamp.com/glennlopez">FreeCodeCamp</a>     | A record of the things I've learned on an opensource-online-fullstack-webdevelopment-course. |
+
+### Learning/Referance material
+*https://www.youtube.com/playlist?list=PL23ZvcdS3XPKnwg3lMv-JGNCn08kB0wsA
