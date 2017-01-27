@@ -1,4 +1,4 @@
-l<!-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
+<!-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
 
 What is this?
 =================
@@ -13,4 +13,3 @@ This is primarily where I keep all my backend stuff for learning new concepts. Y
 | <a href="http://codepen.io/glennlopez/">CodePen</a>     | My frontend web snippets for you to review, use, and play with.  |
 | <a href="http://glennlopez.deviantart.com/">DeviantArt</a>     | My logo designs, GUI/UI, web layout mock-ups, traditional drawings, and other art are stored here. |
 | <a href="https://www.freecodecamp.com/glennlopez">FreeCodeCamp</a>     | A record of the things I've learned on an opensource-online-fullstack-webdevelopment-course. |
-| <a href="http://glennlopez.keybase.pub">My WebPortal</a>     | My frontend web snippets for you to review, use, and play with.  |
