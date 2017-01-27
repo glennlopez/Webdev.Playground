@@ -2,10 +2,10 @@
 
 What is this?
 =================
-This is primarily where I keep all my backend stuff for learning new concepts. You may review or use the code if you want, my only request is that you give credit where its due. Some of where I store my frontend shenanigans are listed on the table below.
+This is primarily where I keep all my backend stuff for learning new concepts. You may review or use the code if you want.
 
 ### But wait... there's more!
->I can't keep everything in Github.. no, that would be ridiculous. Somethings are meant to be interactive, playful, or artistic. Github has constraints that prevent you from experiencing all the fun stuff.
+>I can't keep everything in Github.. no, that would be ridiculous. Somethings are meant to be interactive, playful, or artistic. Some of where I store my frontend shenanigans are listed on the table below.
 
 | Other Repositories        | What to expect from the repository           |
 | ------------- |:--------------------:|
