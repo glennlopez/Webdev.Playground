@@ -1,0 +1,19 @@
+https://github.com/codingforentrepreneurs/Guides/blob/master/all/DjangoPiNetworkServerGuide.md
+
+# Restart in two ways:
+sudo apachectl restart
+sudo service apache2 restart
+
+
+# Start Apache in two ways:
+sudo apachectl start
+sudo service apache2 start
+
+# Stop Apache in two ways:
+sudo apachectl stop
+sudo service apache2 stop
+
+
+1:02:00
+
+
