@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/pi/Github/Webdev.Playground/Python/django/Dev/cfehome"
+set -gx VIRTUAL_ENV "/home/glennlopez/Github/Webdev.Playground/Python/django/Dev/cfehome"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
