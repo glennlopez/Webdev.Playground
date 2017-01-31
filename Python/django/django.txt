@@ -13,7 +13,10 @@ sudo service apache2 start
 sudo apachectl stop
 sudo service apache2 stop
 
-
+https://www.youtube.com/shared?ci=cdyoAJAArT0
 1:02:00
 
 
+------------ Try Django ---------
+https://www.youtube.com/watch?v=ACdY7pId4DM&index=13&list=PLEsfXFp6DpzQSEMN5PXvEWuD2gEWVngCZ
+13 of 40
