@@ -16,3 +16,4 @@ This is primarily where I keep all my backend stuff for learning new concepts. Y
 
 ### Learning/Referance material
 * https://www.youtube.com/playlist?list=PL23ZvcdS3XPKnwg3lMv-JGNCn08kB0wsA
+* https://www.youtube.com/shared?ci=cdyoAJAArT0
