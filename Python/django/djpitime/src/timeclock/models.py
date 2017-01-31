@@ -23,5 +23,12 @@ class UserActivity(models.Model):
 	activity	= models.CharField(max_length=120, default='checkin', choices=USER_ACTIVITY_CHOICES)
 	timestamp	= models.DateTimeField(auto_now_add=True)
 
+	def __unicode__(self):
+		return str(self.activity)
+
 	def __str__(self):
 		return str(self.activity)
+
+	class Meta:
+		verbose_name 			= 'User Activity'
+		verbose_name_plural 	= "User Activities"
