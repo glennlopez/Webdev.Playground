@@ -1,0 +1,2 @@
+activate run virtual enviroment (cd cfehome) = virtualenv . -p python3
+run server = source bin/activate
