@@ -1,0 +1,3 @@
+http://internetofthings-pune.blogspot.ca/2013/10/home-automation-with-raspberrypi-python.html
+http://mattrichardson.com/Raspberry-Pi-Flask/
+http://randomnerdtutorials.com/raspberry-pi-web-server-using-flask-to-control-gpios/
