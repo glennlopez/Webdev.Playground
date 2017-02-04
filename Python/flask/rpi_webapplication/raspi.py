@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 
 SENSOR_PIN  = 22
-LED_PIN     = 23
+LED_PIN     = 24
 
 class Raspi(object):
 
