@@ -2,19 +2,30 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>Survey Form</title>
+        <title>Barebones Survey Form</title>
         <link href="styles.css" rel="stylesheet"/>
     </head>
     <body>
         <header>
-            <h1 id="title">Survey Form</h1>
+            <h1 id="title">Barebones Survey Form</h1>
             <p id="description">Thank you for taking the time to make our platform better.</p>
         </header>
         <form id="survey-form">
-            <label id="name-label">Name: <input id="name" type="text" required></label>
-            <label id="email-label">Email: <input id="email" type="email" required></label>>
-            <label id="number-label">Number: <input id="number" type="number" min="11" max="14"></label>
-
+            <label id="name-label">Name: <input id="name" type="text" required placeholder="John Doe"></label>
+            <label id="email-label">Email: <input id="email" type="email" required placeholder="john.doe@email.com"></label>
+            <label id="number-label">Number: <input id="number" type="number" min="11" max="14" placeholder="+123-456-7890"></label>
+            <label>How did you hear about us?
+                <select id="dropdown">
+                  <option value="">(select one)</option>
+                  <option value="1">freeCodeCamp News</option>
+                  <option value="2">freeCodeCamp YouTube Channel</option>
+                </select>
+            </label>
+            <fieldset>
+                <label><input type="radio" name="0" value="0"/> P1</label>
+                <label><input type="radio" name="1" value="1"/> P2</label>
+                <label><input type="checkbox" name="terms" class="inline" required /> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a></label>
+            </fieldset>
         </form>
     </body>
 </html>
