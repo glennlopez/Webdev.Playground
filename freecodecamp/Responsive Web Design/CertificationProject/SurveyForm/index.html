@@ -24,8 +24,13 @@
             <fieldset>
                 <label><input type="radio" name="radio_btn" value="0"/> P1</label>
                 <label><input type="radio" name="radio_btn" value="1"/> P2</label>
-                <label><input type="checkbox" name="terms" class="inline" required /> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a></label>
+                <label><input type="checkbox" name="terms" value="terms1" class="inline" required /> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a></label>
+                <label><input type="checkbox" name="terms" value="terms2"class="inline" required /> I accept the <a href="https://www.freecodecamp.org/news/terms-of-service/">terms and conditions</a></label>
+                <label>Provide a bio:
+                    <textarea name="bio" rows="3" cols="30" placeholder="I like coding on the beach..."></textarea>
+                </label>
             </fieldset>
+            <input type="submit" id="submit" value="Submit" />
         </form>
     </body>
 </html>
